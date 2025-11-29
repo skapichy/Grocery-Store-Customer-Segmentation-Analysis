@@ -30,11 +30,12 @@ This project applies unsupervised learning techniques to segment customers based
 - Visualization: 2D and 3D plots, KDEs, boxen plots, swarm plots, joint plots.
 
  Key Metrics & Visuals
-🔹 PCA Summary
-| Component| Mean | Std Dev  | Min    | Max  | 
-| col1     | ~0   | 2.81     |  -5.94 | 7.49 | 
-| col2     | ~0   | 1.77     | -4.71  | 6.18 | 
-| col3     | ~0   | 1.14     | -4.14  | 4.91 | 
+# PCA Summary
+| Component | Mean | Std Dev | Min   | Max  |
+|----------|------|---------|-------|------|
+| col1     | ~0   | 2.81    | -5.94 | 7.49 |
+| col2     | ~0   | 1.77    | -4.71 | 6.18 |
+| col3     | ~0   | 1.14    | -4.14 | 4.91 |
 
 
 
